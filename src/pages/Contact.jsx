@@ -63,9 +63,9 @@ const contactMethods = [
   {
     icon: null,
     label: 'Email',
-    value: 'email@email.com',
+    value: 'fiveeauxfeauxrentals@gmail.com',
     detail: 'We typically respond within a few hours',
-    href: 'mailto:email@email.com',
+    href: 'mailto:fiveeauxfeauxrentals@gmail.com',
     cta: 'Send Email',
   },
 ]
@@ -166,7 +166,7 @@ export default function Contact() {
             </div>
             <div className="faq-item">
               <h3>What areas do you serve?</h3>
-              <p>We proudly serve Arizona and the surrounding areas. Not sure if we cover your location? Give us a call and we'll let you know.</p>
+              <p>We proudly serve all 50 states. No matter where you are, we've got you covered — give us a call and we'll get you taken care of.</p>
             </div>
             <div className="faq-item">
               <h3>Do you bring your own supplies?</h3>
@@ -178,7 +178,7 @@ export default function Contact() {
 
       <section className="contact-note">
         <p>
-          Proudly serving Arizona and the surrounding areas.
+          Proudly serving all 50 states.
         </p>
       </section>
     </div>

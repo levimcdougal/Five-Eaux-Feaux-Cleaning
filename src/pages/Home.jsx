@@ -18,7 +18,7 @@ export default function Home() {
             <span className="hero-title-accent">Cleaning</span>
           </h1>
           <p className="hero-tagline">
-            Premium cleaning services with that unmistakable Arizona flair.
+            Premium cleaning services delivered across all 50 states.
             We bring the sparkle — you enjoy the shine.
           </p>
           <div className="hero-cta">
@@ -52,7 +52,7 @@ export default function Home() {
             <div className="section-title-underline"></div>
             <p>At Five Eaux Feaux Cleaning, we believe a clean space is more than just tidy — it's a reflection of the care and pride you put into your home or business. That's why we approach every job with an obsessive attention to detail, making sure no corner is overlooked and no surface is left behind.</p>
             <p>We are fully background-checked and insured, so you can trust who you're letting through your door. Our team shows up on time, every time — because your schedule matters and reliability isn't optional, it's a standard.</p>
-            <p>Proudly rooted in Arizona, we clean the communities we call home with the respect and dedication they deserve. Whether you need a one-time deep clean or a recurring maintenance plan, we'll put together a custom solution that fits your lifestyle and your budget.</p>
+            <p>Proudly serving all 50 states, we clean the communities we call home with the respect and dedication they deserve. Whether you need a one-time deep clean or a recurring maintenance plan, we'll put together a custom solution that fits your lifestyle and your budget.</p>
             <p>When you choose Five Eaux Feaux Cleaning, you're not just getting a clean space — you're getting peace of mind.</p>
           </div>
           <img src={officeImg} alt="Our team at work" className="why-us-photo" />
