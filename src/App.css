@@ -183,6 +183,19 @@ img {
 @media (max-width: 640px) {
   .footer-inner {
     grid-template-columns: 1fr;
+    padding: 2rem 1.25rem 1.5rem;
+    gap: 1.5rem;
+  }
+
+  .footer-col,
+  .footer-col:first-child,
+  .footer-col:last-child {
+    align-items: center;
+    text-align: center;
+  }
+
+  .btn {
+    padding: 0.875rem 1.5rem;
   }
 }
 

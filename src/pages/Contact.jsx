@@ -47,17 +47,17 @@ const contactMethods = [
   {
     icon: null,
     label: 'Phone',
-    value: '123-456-7890',
+    value: '985-445-4650',
     detail: 'Call us anytime during business hours',
-    href: 'tel:+11234567890',
+    href: 'tel:+19854454650',
     cta: 'Call Now',
   },
   {
     icon: null,
     label: 'Text',
-    value: '123-456-7890',
+    value: '985-445-4650',
     detail: 'Prefer texting? Send us a message anytime',
-    href: 'sms:+11234567890',
+    href: 'sms:+19854454650',
     cta: 'Send a Text',
   },
   {
