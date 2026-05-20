@@ -13,7 +13,27 @@ function ScrollToTop() {
   return null
 }
 
+const SITE_ACTIVE = false
+
 function App() {
+  if (!SITE_ACTIVE) {
+    return (
+      <div style={{
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+        minHeight: '100svh',
+        background: '#f5f5f5',
+        fontFamily: 'system-ui, sans-serif',
+        color: '#555',
+        fontSize: '1.2rem',
+        letterSpacing: '0.05em',
+      }}>
+        No content available.
+      </div>
+    )
+  }
+
   return (
     <BrowserRouter>
       <div className="app-wrapper">
